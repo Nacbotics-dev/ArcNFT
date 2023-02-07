@@ -22,6 +22,9 @@ import the SDK
 from SDK.ArcNFT import ARCNFT
 ```
 
+
+Vist [purestake](https://developer.purestake.io/)  to get your algodToken token,
+vist [pinata](https://app.pinata.cloud/keys)  to get your ```<pinata_api_key>``` and ```<pinata_secret_key>``` tokens
 ```
 arcNFT = ARCNFT(algodToken=<algodToken>,pinata_api_key=<pinata_api_key>,pinata_secret_key=<pinata_secret_key>)
 ```
