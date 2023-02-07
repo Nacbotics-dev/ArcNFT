@@ -15,6 +15,13 @@ an unofficial sdk for the ALgorand ARC nft
 - **ARC69**
   - <https://github.com/algorandfoundation/ARCs/blob/main/ARCs/arc-0069.md>
 
+
+you would have to run pi install first before using the sdk
+```
+pip install -r requirements.txt
+```
+
+
 ### Code examples
 
 import the SDK
@@ -77,3 +84,6 @@ updateMYNFT = arcNFT.update_arc_nft(asset_id="157574395",creator_key=private_key
 ```
 
 #### Note: the parameters parsed here are just to create a basic ARC nft please referr to the SDK codes to know about more paramaters
+
+
+#### click [here](https://youtu.be/-_xOdCRhmB4) for video demo
