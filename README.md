@@ -1,4 +1,4 @@
-# ArcNFT-SDK
+# ArcNFT
 an unofficial sdk for the ALgorand ARC nft
 
 ### This sdk is for the python devs
@@ -19,7 +19,7 @@ an unofficial sdk for the ALgorand ARC nft
 
 import the SDK
 ```
-from SDK.ArcNFT import ARCNFT
+from ArcNFT.ArcNFT import ARCNFT
 ```
 
 
